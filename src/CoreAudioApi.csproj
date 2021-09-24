@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
+    <Copyright>Copyright (c) 2021 Tim Hoppmann &lt;bahz@bahz.eu&gt;</Copyright>
+    <RepositoryUrl>https://github.com/bitapparat/CoreAudioApi</RepositoryUrl>
+    <Company></Company>
+    <Authors>Tim Hoppmann &lt;bahz@bahz.eu&gt;</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>CoreAudioApi is a slim wrapper for the Windows Core Audio APIs, to manage audio devices.</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+
+</Project>

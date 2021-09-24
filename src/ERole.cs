@@ -2,6 +2,7 @@
   LICENSE
   -------
   Copyright (C) 2007-2010 Ray Molenkamp
+  Copyright (c) 2021 Tim Hoppmann <bahz@bahz.eu>
 
   This source code is provided 'as-is', without any express or implied
   warranty.  In no event will the authors be held liable for any damages
@@ -27,9 +28,18 @@ namespace CoreAudioApi
 {
     public enum ERole
     {
-        eConsole =0,
-        eMultimedia =1,
-        eCommunications=2,
+        /// <summary>
+        /// Games, system notification sounds, and voice commands.
+        /// </summary>
+        eConsole = 0,
+        /// <summary>
+        /// Music, movies, narration, and live music recording.
+        /// </summary>
+        eMultimedia = 1,
+        /// <summary>
+        /// Voice communications (talking to another person).
+        /// </summary>
+        eCommunications = 2,
         ERole_enum_count=3
     }
 }

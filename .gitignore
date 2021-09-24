@@ -251,11 +251,5 @@ paket-files/
 .idea/
 *.sln.iml
 
-# Microsoft Visual Studio Solution
-*.sln
-
-# Visual C# Project file
-*.csproj
-
 # Packages XML Configuration file
 packages.config
