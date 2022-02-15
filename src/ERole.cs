@@ -2,7 +2,7 @@
   LICENSE
   -------
   Copyright (C) 2007-2010 Ray Molenkamp
-  Copyright (c) 2021 Tim Hoppmann <bahz@bahz.eu>
+  Copyright (c) 2021-2022 Tim Hoppmann <N@Nto0.net>
 
   This source code is provided 'as-is', without any express or implied
   warranty.  In no event will the authors be held liable for any damages

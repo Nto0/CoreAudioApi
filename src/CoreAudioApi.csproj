@@ -3,10 +3,10 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
-    <Copyright>Copyright (c) 2021 Tim Hoppmann &lt;bahz@bahz.eu&gt;</Copyright>
+    <Copyright>Copyright (c) 2021-2022 Tim Hoppmann &lt;N@Nto0.net&gt;</Copyright>
     <RepositoryUrl>https://github.com/bitapparat/CoreAudioApi</RepositoryUrl>
     <Company></Company>
-    <Authors>Tim Hoppmann &lt;bahz@bahz.eu&gt;</Authors>
+    <Authors>Tim Hoppmann &lt;N@Nto0.net&gt;</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>CoreAudioApi is a slim wrapper for the Windows Core Audio APIs, to manage audio devices.</Description>
   </PropertyGroup>
